@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f614ba6f-46b8-4e16-b828-f0756f6177e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YL9YB6wnob2Tb72uJiohbz6u2M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BACKEND-PEMIRSA-LARAVEL-V1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\smp-it" />
+      <recent name="C:\xampp\htdocs\smp-it\img\blog" />
+      <recent name="C:\xampp\htdocs\smp-it\img" />
+      <recent name="C:\xampp\htdocs\education\admin\pages\upload\gambar-galeri" />
+      <recent name="C:\xampp\htdocs\education\admin\pages\upload\gambar-event" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f614ba6f-46b8-4e16-b828-f0756f6177e9" name="Default Changelist" comment="" />
+      <created>1582711053012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582711053012</updated>
+      <workItem from="1582711054524" duration="6904000" />
+      <workItem from="1582765034487" duration="20188000" />
+      <workItem from="1582799944863" duration="14630000" />
+      <workItem from="1582852117963" duration="32772000" />
+      <workItem from="1582907201552" duration="3885000" />
+      <workItem from="1582939281166" duration="5837000" />
+      <workItem from="1582959975969" duration="2508000" />
+      <workItem from="1582962734338" duration="13838000" />
+      <workItem from="1583027924933" duration="2570000" />
+      <workItem from="1583126807993" duration="641000" />
+      <workItem from="1583127604327" duration="530000" />
+      <workItem from="1583132481717" duration="1523000" />
+      <workItem from="1583144845578" duration="68000" />
+      <workItem from="1587140657264" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582966945605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582966945605" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1583144912004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583144912004" />
+    <state x="462" y="178" key="NewPhpClassDialog" timestamp="1582863785109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1582863785109" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1582972811404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582972811404" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583144884663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583144884663" />
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582854363735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1582854363735" />
+    <state x="379" y="101" width="607" height="526" key="find.popup" timestamp="1582817312564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="101" width="607" height="526" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1582817312564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/pages/list-materi.php</url>
+          <line>101</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
